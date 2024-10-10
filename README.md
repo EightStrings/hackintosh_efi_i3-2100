@@ -4,8 +4,8 @@ OpenCore Version: 1.0.1
 | Type | Model | Works? | Notes |
 | --- | --- | --- | --- |
 | CPU | Intel Core i3-2100 | Yes | Highly recommend upgrading the CPU.
-| GPU | NVIDIA Geforce GTX 780 Ti | Yes
-| | Intel HD 3000 | Most likely | Probably, I just haven't checked yet |
+| iGPU | Intel HD 3000 | Most likely | Probably, I just haven't checked yet |
+| GPU | NVIDIA Geforce GTX 780 Ti | Yes | I use the 780 Ti as main GPU|
 | Audio | VIA VT1708S_0 | No | I tried alcid=21 in boot args and it didn't work |
 | USB | N/A | Yes | With the port mapping |
 | HDMI | N/A | Yes |  |
