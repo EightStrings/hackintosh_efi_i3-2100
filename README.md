@@ -10,7 +10,7 @@ OpenCore Version: 1.0.1
 | USB | N/A | Yes | With the port mapping |
 | HDMI | N/A | Yes |  |
 | WiFi | USB Dongle | Yes | With "Wireless USB Big Sur Adapter" made by chris1111 (https://github.com/chris1111/Wireless-USB-Big-Sur-Adapter)|
-| Bluetooth | USB Dongle (BCM_4350C2) | No | I'm working on it. |
+| Bluetooth | USB Dongle (BCM_4350C2) | Yes |  |
 | Ethernet | RTL8168 | Yes | |
 | CD-DVD | N/A | Yes |  |
 | SD Card Reader | Generic Realtek | N/A | Just haven't checked yet |
